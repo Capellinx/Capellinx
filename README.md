@@ -1,37 +1,41 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Capellinx/9fa7d29ec94f05d446f36d5eacff3ba1/raw/b50cf0fa5345c5591851dd774ad213557f7a9636/githubcard.svg"/>
+<div>
+  
+  <h1 align="center">
+    Hi, How are you? I'm
+    <a href="https://www.linkedin.com/in/lucas-capella-/">Lucas Capella</a>
+  </h1>
+  
+  <p align="center">
+    I'm a Front-End developer, I love talking about technology
+    <img/>
+  </p>
+  
+  <p align="center">
+    I love talking about technology and development 💻
+  </p>
+  
+</div>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Capella</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=capellinx&color=green" alt="Profile views" /> </p>
+<div align="center">
+  <a href="https://github.com/Capellinx">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=capellinx&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capellinx&theme=dracula&hide_border=false&&layout=compact"/>
+</div>
 
-- 🔥 Junior Web Developer 
-
-- 👨🏽‍💼 Looking for my first opportunity
-
-- 💬 Ask me about **JavaScript, HTML, CSS, React Native, Node.JS**
-
-- 💖 I love talking about technology
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br><br>
-
-
-## 👨🏽‍🦱 &nbsp;Social Links
-
-<a href="https://www.linkedin.com/in/lucas-capella-608012202/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-capellinx-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/capellinx" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-capellinx-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div><br>
+  
+## 
+<div align="center">
+  <a href="https://www.instagram.com/capellinx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-capella-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:capellaaa7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
