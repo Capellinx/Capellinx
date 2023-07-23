@@ -7,7 +7,6 @@
   
   <p align="center">
     I'm a Front-End developer, I love talking about technology and development 💻
-    <img/>
   </p>
 
 </div>
