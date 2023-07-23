@@ -6,14 +6,10 @@
   </h1>
   
   <p align="center">
-    I'm a Front-End developer, I love talking about technology
+    I'm a Front-End developer, I love talking about technology and development 💻
     <img/>
   </p>
-  
-  <p align="center">
-    I love talking about technology and development 💻
-  </p>
-  
+
 </div>
 
 <div align="center">
