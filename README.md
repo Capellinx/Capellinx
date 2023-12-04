@@ -1,3 +1,6 @@
+##
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capellinx&theme=dracula&hide_border=false&&layout=compact"/>
+
   ```js
   import Developer from "Capellinx";
 
@@ -16,3 +19,4 @@
   <a href="https://www.linkedin.com/in/lucas-capella-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:capellaaa7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
