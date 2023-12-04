@@ -1,14 +1,17 @@
   ```js
-  import Developer from "Capellinx";
 
-  class aboutMe extends Developer = {
-    name: 'Lucas Capella',
-    age: '21',
-    email: 'capellaaa7@gmail.com',
-    ocupation: ['Full Stack Developer', 'UI design', 'IT Manager'],
-    skills: ['JavaScript', 'React.js', 'Node.js', 'Tailwind CSS', 'Linux'],
-    softSkills: ['creativity',  'leadership',  'organization']
-};
+function showInfo() = {
+      let info = {
+          name: 'Lucas Capella',
+          age: '21',
+          email: 'capellaaa7@gmail.com',
+          ocupation: ['Full Stack Developer', 'UI design', 'IT Manager'],
+          skills: ['JavaScript', 'React.js', 'Node.js', 'Tailwind CSS', 'Linux'],
+          softSkills: ['creativity',  'leadership',  'organization']
+        };
+      console.log(info);
+}
+showInfo();
 ````
 
 <div align="center">
