@@ -1,6 +1,3 @@
-##
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capellinx&theme=dracula&hide_border=false&&layout=compact"/>
-
   ```js
   import Developer from "Capellinx";
 
