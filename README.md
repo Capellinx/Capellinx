@@ -1,6 +1,6 @@
 #
 
-<img align="right" width="350" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="370" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
   ```js
   import Developer from "Capellinx";
@@ -9,7 +9,7 @@
     name: 'Lucas Capella',
     age: '21',
     email: 'capellaaa7@gmail.com',
-    ocupation: ['Full Stack Developer', 'UI design', 'IT Manager']
+    ocupation: ['Full Stack Developer', 'UI design', 'IT Manager'],
     skills: ['JavaScript', 'React.js', 'Node.js', 'Tailwind CSS', 'Linux'],
     softSkills: ['creativity',  'leadership',  'organization']
 };
